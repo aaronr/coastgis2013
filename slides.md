@@ -314,6 +314,43 @@
 
 <!------------------------------------------------------------>
 --SLIDE--
+<!-- Topic: GIS tools -->
+
+<h2>GIS Tools</h2>
+<img style="max-height: 500px;" src="images/esi.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/esi_report.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/lq_gen.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/lq_detail.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/bookmark_views.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/ais_zoom.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/find.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/print.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/layer_record.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/layer_record2.png">
+
+--SUBSLIDE--
+<img style="max-height: 550px;" src="images/annotations.png">
+
+<!------------------------------------------------------------>
+--SLIDE--
 <!-- Topic: Loop around to the attendees... how does this matter? -->
 
 <h2>So how/why does this matter to you?</h2>
